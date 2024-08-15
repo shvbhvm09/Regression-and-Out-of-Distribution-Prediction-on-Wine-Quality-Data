@@ -39,6 +39,10 @@ The Wine Quality dataset can be downloaded from [UCI Machine Learning Repository
 - **Cross-Type Testing**:
   - Tested models trained on red wine data using white wine data and vice versa.
   - Analyzed the applicability of models across different types of wine and provided commentary on the results.
+ 
+    
+## Note: You will find wine_quality_pridiction.ipynb file in this repository which has more than the necessary information. The first part of the question contains the solution described above.
+
 
 ## Results
 
